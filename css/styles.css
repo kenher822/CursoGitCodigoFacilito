@@ -15,6 +15,17 @@ h1, h2, h3, h4, h5, h6{
     font-family: 'Raleway', sans-serif;
 }
 
+h1{
+    color: #d74932;
+    font-size: 50px !important;
+    text-shadow: 4px 5px 5px rgba(0, 0, 0, 0.5)    
+}
+
+p{
+    font-weight: 30;
+
+}
+
 .content h1{
     font-family: 'Kaushan Script', cursive;
     color: #D74942;
@@ -111,6 +122,8 @@ h1, h2, h3, h4, h5, h6{
     margin: 5px 0 10px 0;
     text-transform: uppercase;
     letter-spacing: 5px;
+    font-weight: 300px;
+    font-weight: 30;
 }
 
 .infoContent .block h3 a {
